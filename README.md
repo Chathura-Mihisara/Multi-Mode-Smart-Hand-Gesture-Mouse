@@ -69,7 +69,7 @@ Once connected, it functions as a **wireless gesture mouse**, allowing navigatio
 
 ## 🎥 Project Demo Video
 
-[![Watch the video](https://img.youtube.com/vi/A7RdeAjiv5U/maxresdefault.jpg)](https://youtu.be/A7RdeAjiv5U)
+[![Watch the video](thumbnail-play.png)](https://youtu.be/A7RdeAjiv5U)
 
 ---
 
