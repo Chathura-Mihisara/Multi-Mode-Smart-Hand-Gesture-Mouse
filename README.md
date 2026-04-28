@@ -91,7 +91,7 @@ AirMouseProject/
 ├── AirMouseProject.ino     
 │
 ├── Final Report.pdf
-├── multi-mode-hand-gesture-mouse.jpg        
+├── thumbnail-play.png        
 ├── README.md               
 ├── LICENSE                 
 ```
